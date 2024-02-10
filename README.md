@@ -16,7 +16,10 @@ const ruslana = {
 ```
 
 Feel free to contact me.
-[![LinkedIn](https://www.pngfind.com/pngs/m/103-1034803_png-linkedin-transparent-png.png)](https://www.linkedin.com/in/ruslana-pavliuk/)
+<a href="https://www.linkedin.com/in/ruslana-pavliuk/" target="_blank">
+  <img src="https://www.pngfind.com/pngs/m/103-1034803_png-linkedin-transparent-png.png" alt="LinkedIn" width="70">
+</a>
+
 <!--
 **Ruslana-P/Ruslana-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
