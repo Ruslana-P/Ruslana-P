@@ -33,7 +33,7 @@ Technologies used in the project: JS, SCSS.
 
 
 
-### __Feel free to contact me__
+### __ Feel free to contact me __
 
 You can find my LinkedIn here
 <a href="https://www.linkedin.com/in/ruslana-pavliuk/" target="_blank">
