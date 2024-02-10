@@ -6,9 +6,9 @@ I am currently working at Anederson Lab.
 
 ```javascript
 const ruslana = {
-  code: ["Javascript", Typescript, HTML, CSS],
-  tools: ["React", "Redux", "React-router",  React-bootstrap, Jest],
- currentlyLearning: ["Material Ui" , "React Query"],
+    code:  [Javascript, Typescript, HTML, CSS],
+    tools: [React, Redux, React-router,  React-bootstrap, Jest],
+    currentlyLearning: ["Material Ui" , "React Query"],
   techCommunities: {
                        
                       },
