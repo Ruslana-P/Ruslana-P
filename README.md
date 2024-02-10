@@ -20,14 +20,14 @@ const ruslana = {
 ### __Here are a few of my pet-projects__    
 Below are some of my projects. Next to each of them on the left side is the creation date. This is crucial as it allows tracking the growth of my skills and the evolution of the quality of my work.    
 
-#### Old games site, January 2024   
+#### **Old games site, January 2024**   
 
 A website featuring 3 simple  games from childhood: Fifteen Puzzle, Tic-Tac-Toe, and Memory Game.   
 Technologies used in the project: React, TypeScript, React-Router, SCSS, Jest.   
 
 [Old games site](https://github.com/Ruslana-P/old-games-site/build/index.html)  / [Code](https://github.com/Ruslana-P/old-games-site)      
 
-#### Website for wedding photographer , May 2023    
+#### Website for wedding photographer , [ _May 2023_ ]    
 
 Technologies used in the project: JS, SCSS.   
 
