@@ -15,6 +15,8 @@ const ruslana = {
 }
 ```
 
+---
+
 ### __Here are a few of my pet-projects__    
 Below are some of my projects. Next to each of them on the left side is the creation date. This is crucial as it allows tracking the growth of my skills and the evolution of the quality of my work.    
 
@@ -31,6 +33,7 @@ Technologies used in the project: JS, SCSS.
 Technologies used in the project: JS, SCSS.   
 [Old games site](https://ruslana-p.github.io/Websites/game_gem_puzzle/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/game_gem_puzzle)      
 
+---
 
 
 ### _Feel free to contact me_
