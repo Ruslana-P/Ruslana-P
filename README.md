@@ -6,17 +6,17 @@ I am currently working at Anederson Lab.
 
 ```javascript
 const ruslana = {
-    code:  [Javascript, Typescript, HTML, CSS],
-    tools: [React, Redux, React-router,  React-bootstrap, Jest],
-    currentlyLearning: ["Material Ui" , "React Query"],
-  techCommunities: {
-                       
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-  }
+    code:   [Javascript, Typescript, HTML, React],
+    styling: [CSS, SCSS, React Bootstrap],
+    stateManagementTools: [Redux]
+    additionalToold: [React Router, Jest],
+    currentlyLearning: [Material Ui , React Query],
+    funFactAboutMe: ["I speak five languages"]
+}
 ```
 
-
+Feel free to contact me.
+(https://www.pngfind.com/pngs/m/103-1034803_png-linkedin-transparent-png.png)(www.linkedin.com/in/ruslana-pavliuk)
 <!--
 **Ruslana-P/Ruslana-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
