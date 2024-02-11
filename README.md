@@ -24,7 +24,7 @@ Below are some of my projects. Next to each of them on the right side is the cre
 [Old games site](https://github.com/Ruslana-P/old-games-site/build/index.html) / [Code](https://github.com/Ruslana-P/old-games-site) / **Stack:** React, TypeScript, React-Router, SCSS, Jest.  
 
 #### Weddings photograph site, [ _May 2023_ ]    
-[Weddings photograf site](https://ruslana-p.github.io/Websites/2_weddings_photograf_site/public/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/weddings_photograf_site) / **Stack:** JS, CSS.      
+[Weddings photograf site](https://ruslana-p.github.io/Websites/weddings_photograf_site/public/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/weddings_photograf_site) / **Stack:** JS, CSS.      
 
 #### Fifteen Puzzle Game, [ _May 2023_ ]    
 [Fifteen Puzzle Game](https://ruslana-p.github.io/Websites/game_gem_puzzle/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/game_gem_puzzle) / **Stack:** JS, CSS.   
