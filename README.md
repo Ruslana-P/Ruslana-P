@@ -1,6 +1,6 @@
 ### Welcome to my page 👋 
 I am Junior React-developer, full of enthusiasm and desire to grow to the rank of a senior.
-I am currently working at Anedersen Lab.  
+I am currently working at Andersen Lab.  
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about my me and my work
 
@@ -23,11 +23,11 @@ Below are some of my projects. Next to each of them on the right side is the cre
 #### Old games site, [ _January 2024_ ]   
 [Old games site](https://github.com/Ruslana-P/old-games-site/build/index.html) / [Code](https://github.com/Ruslana-P/old-games-site) / **Stack:** React, TypeScript, React-Router, SCSS, Jest.  
 
-#### Weddings photograf site, [ _May 2023_ ]    
-[Weddings photograf site](https://ruslana-p.github.io/Websites/2_weddings_photograf_site/public/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/weddings_photograf_site) / **Stack:** JS, SCSS.      
+#### Weddings photograph site, [ _May 2023_ ]    
+[Weddings photograf site](https://ruslana-p.github.io/Websites/2_weddings_photograf_site/public/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/weddings_photograf_site) / **Stack:** JS, CSS.      
 
 #### Fifteen Puzzle Game, [ _May 2023_ ]    
-[Fifteen Puzzle Game](https://ruslana-p.github.io/Websites/game_gem_puzzle/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/game_gem_puzzle) / **Stack:** JS, SCSS.   
+[Fifteen Puzzle Game](https://ruslana-p.github.io/Websites/game_gem_puzzle/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/game_gem_puzzle) / **Stack:** JS, CSS.   
 
 ---
 
