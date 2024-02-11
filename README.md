@@ -21,7 +21,7 @@ const ruslana = {
 Below are some of my projects. Next to each of them on the right side is the creation date. This is crucial as it allows tracking the growth of my skills and the evolution of the quality of my work.    
 
 #### Old games site, [ _January 2024_ ]   
-[Old games site](https://github.com/Ruslana-P/old-games-site/build/index.html) / [Code](https://github.com/Ruslana-P/old-games-site) / **Stack:** React, TypeScript, React-Router, SCSS, Jest.  
+[Old games site](https://nostalgic-games.netlify.app/) / [Code](https://github.com/Ruslana-P/old-games-site) / **Stack:** React, TypeScript, React-Router, SCSS, Jest.  
 
 #### Weddings photograph site, [ _May 2023_ ]    
 [Weddings photograf site](https://ruslana-p.github.io/Websites/weddings_photograf_site/public/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/weddings_photograf_site) / **Stack:** JS, CSS.      
