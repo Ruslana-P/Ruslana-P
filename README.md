@@ -1,6 +1,6 @@
 ### Welcome to my page 👋 
 I am Junior React-developer, full of enthusiasm and desire to grow to the rank of a senior.
-I am currently working at Anederson Lab.  
+I am currently working at Anedersen Lab.  
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about my me and my work
 
