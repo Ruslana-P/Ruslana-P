@@ -18,7 +18,7 @@ const ruslana = {
 ---
 
 ### __Here are a few of my pet-projects__    
-Below are some of my projects. Next to each of them on the left side is the creation date. This is crucial as it allows tracking the growth of my skills and the evolution of the quality of my work.    
+Below are some of my projects. Next to each of them on the right side is the creation date. This is crucial as it allows tracking the growth of my skills and the evolution of the quality of my work.    
 
 #### Old games site, [ _January 2024_ ]   
 
