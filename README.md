@@ -21,23 +21,13 @@ const ruslana = {
 Below are some of my projects. Next to each of them on the right side is the creation date. This is crucial as it allows tracking the growth of my skills and the evolution of the quality of my work.    
 
 #### Old games site, [ _January 2024_ ]   
-
-A website featuring 3 simple  games from childhood: Fifteen Puzzle, Tic-Tac-Toe, and Memory Game.   
-**Stack:** React, TypeScript, React-Router, SCSS, Jest.   
-
-<span style="text-decoration:none;"><span style="text-decoration:none;">[Old games site](https://github.com/Ruslana-P/old-games-site/build/index.html)  </span>/ <span style="text-decoration:none;">[Code](https://github.com/Ruslana-P/old-games-site)</span>
+[Old games site](https://github.com/Ruslana-P/old-games-site/build/index.html) / [Code](https://github.com/Ruslana-P/old-games-site) / **Stack:** React, TypeScript, React-Router, SCSS, Jest.  
 
 #### Weddings photograf site, [ _May 2023_ ]    
-
-**Stack:** JS, SCSS.   
-
-[Weddings photograf site](https://ruslana-p.github.io/Websites/2_weddings_photograf_site/public/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/weddings_photograf_site)      
+[Weddings photograf site](https://ruslana-p.github.io/Websites/2_weddings_photograf_site/public/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/weddings_photograf_site) / **Stack:** JS, SCSS.      
 
 #### Fifteen Puzzle Game, [ _May 2023_ ]    
-
-**Stack:** JS, SCSS.   
-
-[Fifteen Puzzle Game](https://ruslana-p.github.io/Websites/game_gem_puzzle/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/game_gem_puzzle)      
+[Fifteen Puzzle Game](https://ruslana-p.github.io/Websites/game_gem_puzzle/index.html)  / [Code](https://github.com/Ruslana-P/Websites/tree/main/game_gem_puzzle) / **Stack:** JS, SCSS.   
 
 ---
 
